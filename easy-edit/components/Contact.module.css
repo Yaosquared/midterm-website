@@ -1,0 +1,135 @@
+.container h1 {
+    position: absolute;
+    width: 213px;
+    height: 51px;
+    left: 156px;
+    top: 3887px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 51px;
+    color: #000000;
+}
+
+.landline h3 {
+    position: absolute;
+    width: 121px;
+    height: 44px;
+    left: 156px;
+    top: 3977px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.llfirst {
+    position: absolute;
+    width: 246px;
+    height: 44px;
+    left: 156px;
+    top: 4022px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.llsecond {
+    position: absolute;
+    width: 246px;
+    height: 44px;
+    left: 156px;
+    top: 4067px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.mobile h3 {
+    position: absolute;
+    width: 99px;
+    height: 44px;
+    left: 156px;
+    top: 4152px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.mfirst {
+    position: absolute;
+    width: 310px;
+    height: 44px;
+    left: 156px;
+    top: 4197px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.msecond {
+    position: absolute;
+    width: 366px;
+    height: 44px;
+    left: 156px;
+    top: 4242px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.email h3 {
+    position: absolute;
+    width: 96px;
+    height: 51px;
+    left: 156px;
+    top: 4327px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 51px;
+    color: #495057;
+}
+
+.email p {
+    position: absolute;
+    width: 425px;
+    height: 44px;
+    left: 156px;
+    top: 4372px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.teampic {
+    position: absolute;
+    width: 664px;
+    height: 529px;
+    left: 619px;
+    top: 3887px;
+    opacity: 0.5;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}

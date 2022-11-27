@@ -1,0 +1,224 @@
+.container h1 {
+    position: absolute;
+    width: 334px;
+    height: 92px;
+    left: 562px;
+    top: 2006px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 94px;
+    text-align: center;
+    color: #000000;
+}
+
+.scroll {
+    position: absolute;
+    width: 540px;
+    height: 628px;
+    left: 453px;
+    top: 2128px;
+    overflow-x: scroll;
+}
+
+.scrollcontainer {
+    position: absolute;
+    width: 3656.47px;
+    height: 628.16px;
+    left: 0px;
+    top: 0px;
+}
+
+.first {
+    position: absolute;
+    width: 540.3px;
+    height: 625.17px;
+    left: 0px;
+    top: 0px;
+}
+
+.first img {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 20px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px #000000);
+}
+
+.first h5 {
+    position: absolute;
+    width: 540.3px;
+    height: 30.58px;
+    left: 70px;
+    top: 534px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.first p {
+    position: absolute;
+    width: 507.68px;
+    height: 30.58px;
+    left: 210px;
+    top: 594.58px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #495057;
+}
+
+.second {
+    position: absolute;
+    width: 508px;
+    height: 625.75px;
+    left: 740.3px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.second img {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 995px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px #000000);
+}
+
+.second h5 {
+    position: absolute;
+    width: 440.4px;
+    height: 30.58px;
+    left: 1021.66px;
+    top: 534px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+
+.second p {
+    position: absolute;
+    width: 507.68px;
+    height: 30.58px;
+    left: 987px;
+    top: 595.17px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #495057;
+}
+
+.third {
+    position: absolute;
+    width: 719px;
+    height: 627.78px;
+    left: 1348.3px;
+    top: 0px;
+}
+
+.third img {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 2069px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px #000000);
+}
+
+.third h5 {
+    position: absolute;
+    width: 719px;
+    height: 31.26px;
+    left: 1959px;
+    top: 534px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+
+.third p {
+    position: absolute;
+    width: 518.93px;
+    height: 31.26px;
+    left: 2056.95px;
+    top: 596.52px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #495057;
+}
+
+.fourth {
+    position: absolute;
+    width: 508.47px;
+    height: 628.16px;
+    left: 2167.3px;
+    top: 0px;
+}
+
+.fourth img {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 3156px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px #000000);
+}
+
+.fourth h5 {
+    position: absolute;
+    width: 375.2px;
+    height: 30.75px;
+    left: 3215.66px;
+    top: 540px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+
+.fourth p {
+    position: absolute;
+    width: 508.47px;
+    height: 30.75px;
+    left: 3148px;
+    top: 597.41px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #495057;
+}

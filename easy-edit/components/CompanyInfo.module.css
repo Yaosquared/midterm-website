@@ -1,0 +1,130 @@
+.calendar img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 279px;
+    top: 1159px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.calendar h2{
+    position: absolute;
+    width: 35px;
+    height: 74px;
+    left: 361px;
+    top: 1336px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 88px;
+    text-align: center;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.calendar p {
+    position: absolute;
+    width: 191px;
+    height: 32px;
+    left: 288px;
+    top: 1467px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.worker img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 629px;
+    top: 1159px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.worker h2{
+    position: absolute;
+    width: 34px;
+    height: 88px;
+    left: 711px;
+    top: 1336px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 88px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.worker p {
+    position: absolute;
+    width: 69px;
+    height: 32px;
+    left: 694px;
+    top: 1467px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.works img {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 979px;
+    top: 1159px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.works h2 {
+    position: absolute;
+    width: 64px;
+    height: 40px;
+    left: 1054px;
+    top: 1340px;
+    font-family: 'Noto Serif HK';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 92px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.works p {
+    position: absolute;
+    width: 62px;
+    height: 32px;
+    left: 1049px;
+    top: 1467px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.message p {
+    position: absolute;
+    width: 1100px;
+    height: 364px;
+    left: 179px;
+    top: 1557px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: justify;
+    color: #000000;
+}
+
