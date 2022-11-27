@@ -1,10 +1,10 @@
 # midterm-website
 cpet12l midterm requirement
 
-Incomplete, needs:
+Incomplete, In need of:
 
-*Navbar
+*<strong>Navbar</strong>
 
-*Button
+*<strong>Button</strong>
 
-*Services
+*<strong>Services</strong>
