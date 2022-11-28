@@ -1,7 +1,7 @@
 .container {
     position: absolute;
     width: 100vw;
-    height: 36vh;
+    height: 30vh;
     left: 0px;
     top: 4300px;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url(/footer.png);
@@ -26,7 +26,7 @@
     width: 178px;
     height: 29px;
     left: 100px;
-    top: 60px;
+    top: 50px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
@@ -40,7 +40,7 @@
     width: 45px;
     height: 29px;
     left: 100px;
-    top: 100px;
+    top: 80px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
@@ -68,7 +68,7 @@
     width: 166px;
     height: 29px;
     left: 400px;
-    top: 60px;
+    top: 50px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
@@ -82,7 +82,7 @@
     width: 166px;
     height: 29px;
     left: 400px;
-    top: 100px;
+    top: 80px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
@@ -110,7 +110,7 @@
     width: 209px;
     height: 29px;
     left: 700px;
-    top: 60px;
+    top: 50px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
@@ -124,7 +124,7 @@
     width: 246px;
     height: 29px;
     left: 700px;
-    top: 100px;
+    top: 80px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
@@ -152,7 +152,7 @@
     width: 237px;
     height: 29px;
     left: 1000px;
-    top: 60px;
+    top: 50px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
@@ -166,7 +166,7 @@
     width: 215px;
     height: 29px;
     left: 1000px;
-    top: 100px;
+    top: 80px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
@@ -180,7 +180,7 @@
     width: 147px;
     height: 22px;
     left: 100px;
-    top: 153px;
+    top: 123px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
@@ -191,30 +191,30 @@
 
 .line {
     position: absolute;
-    width: 150px;
+    width: 130px;
     height: 0px;
     left: 240px;
-    top: 100px;
+    top: 80px;
     border: 2px solid #FFFFFF;
     transform: rotate(90.7deg);
 }
 
 .line1 {
     position: absolute;
-    width: 150px;
+    width: 130px;
     height: 0px;
     left: 540px;
-    top: 100px;
+    top: 80px;
     border: 2px solid #FFFFFF;
     transform: rotate(90.7deg);
 }
 
 .line2 {
     position: absolute;
-    width: 150px;
+    width: 130px;
     height: 0px;
     left: 850px;
-    top: 100px;
+    top: 80px;
     border: 2px solid #FFFFFF;
     transform: rotate(90deg);
 }
