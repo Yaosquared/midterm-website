@@ -7,4 +7,4 @@ cpet12l midterm requirement
 
  *<strong>width fix of landing page</strong>
  
- *<strong>zoom animation of pics in previous works</strong>
+ *<strong>zoom animation of pics on previous works</strong>
