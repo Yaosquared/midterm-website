@@ -1,10 +1,10 @@
 # midterm-website
 cpet12l midterm requirement
 
-Incomplete, In need of:
+(branch 28/11/2022 latest) still <strong>incomplete</strong>, In need of:
 
-*<strong>Navbar</strong>
+*<strong>Services page</strong>
 
-*<strong>Button</strong>
-
-*<strong>Services</strong>
+ *<strong>width fix of landing page</strong>
+ 
+ *<strong>zoom animation of pics in previous works</strong>
