@@ -1,7 +1,7 @@
 # midterm-website
 cpet12l midterm requirement
 
-<strong>(FILES UPDATED ARE ONLY UPLOADED HERE)</strong>
+(FILES UPDATED ARE ONLY UPLOADED HERE)
 
 <strong>Incomplete</strong>, In need of:
 
