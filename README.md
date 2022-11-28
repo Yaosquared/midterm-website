@@ -1,12 +1,12 @@
 # midterm-website
 cpet12l midterm requirement
 
-(files updated are only uploaded here)
+<strong>(FILES UPDATED ARE ONLY UPLOADED HERE)</strong>
 
-Incomplete, In need of:
+<strong>Incomplete</strong>, In need of:
 
-*Services page
+*<strong>Services page</strong>
 
-*width fix of landing page
+*<strong>width fix of landing page</strong>
 
-*zoom animation of pics in previous works
+*<strong>zoom animation of pics in previous works</strong>
