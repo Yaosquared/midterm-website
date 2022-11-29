@@ -1,26 +1,27 @@
 .bg {
     position: absolute;
-    width: 1440px;
-    height: 1035px;
+    width: 100vw;
+    height: 100vh;
     left: 0px;
     top: 0px;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15));
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url(/main-bg.png);
 }
 
 .logo {
     position: absolute;
     width: 688px;
     height: 218px;
-    left: 599px;
-    top: 345px;
+    left: 550px;
+    top: 130px;
+    background: url(/logo.png);
 }
 
 .container p {
     position: absolute;
     width: 921px;
     height: 70px;
-    left: 482px;
-    top: 563px;
+    left: 440px;
+    top: 310px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 500;
