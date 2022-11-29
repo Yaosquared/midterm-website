@@ -1,3 +1,4 @@
+import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import CompanyInfo from "../components/CompanyInfo";
 import Team from "../components/Team";
@@ -8,6 +9,7 @@ import Footer from "../components/Footer"
 export default function EasyEdit() {
     return (
         <div>
+            <Navbar />
             <Hero />
             <CompanyInfo />
             <Team />

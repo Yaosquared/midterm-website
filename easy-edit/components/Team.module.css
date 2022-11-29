@@ -2,7 +2,7 @@
     position: absolute;
     width: 334px;
     height: 92px;
-    left: 562px;
+    left: 500px;
     top: 2006px;
     font-family: 'Heebo';
     font-style: normal;
@@ -11,14 +11,15 @@
     line-height: 94px;
     text-align: center;
     color: #000000;
+    top: 1700px;
 }
 
 .scroll {
     position: absolute;
     width: 540px;
-    height: 628px;
+    height: 700px;
     left: 453px;
-    top: 2128px;
+    top: 1900px;
     overflow-x: scroll;
 }
 
@@ -40,8 +41,8 @@
 
 .first img {
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     left: 20px;
     top: 0px;
     filter: drop-shadow(0px 4px 4px #000000);
@@ -51,8 +52,8 @@
     position: absolute;
     width: 540.3px;
     height: 30.58px;
-    left: 70px;
-    top: 534px;
+    left: 30px;
+    top: 380px;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 600;
@@ -68,8 +69,8 @@
     position: absolute;
     width: 507.68px;
     height: 30.58px;
-    left: 210px;
-    top: 594.58px;
+    left: 160px;
+    top: 450px;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 400;
@@ -92,8 +93,8 @@
 
 .second img {
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     left: 995px;
     top: 0px;
     filter: drop-shadow(0px 4px 4px #000000);
@@ -103,8 +104,8 @@
     position: absolute;
     width: 440.4px;
     height: 30.58px;
-    left: 1021.66px;
-    top: 534px;
+    left: 980px;
+    top: 370px;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 600;
@@ -118,8 +119,8 @@
     position: absolute;
     width: 507.68px;
     height: 30.58px;
-    left: 987px;
-    top: 595.17px;
+    left: 940px;
+    top: 450px;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 400;
@@ -139,8 +140,8 @@
 
 .third img {
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     left: 2069px;
     top: 0px;
     filter: drop-shadow(0px 4px 4px #000000);
@@ -150,8 +151,8 @@
     position: absolute;
     width: 719px;
     height: 31.26px;
-    left: 1959px;
-    top: 534px;
+    left: 1910px;
+    top: 380px;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 600;
@@ -165,8 +166,8 @@
     position: absolute;
     width: 518.93px;
     height: 31.26px;
-    left: 2056.95px;
-    top: 596.52px;
+    left: 2020px;
+    top: 450px;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 400;
@@ -186,8 +187,8 @@
 
 .fourth img {
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     left: 3156px;
     top: 0px;
     filter: drop-shadow(0px 4px 4px #000000);
@@ -197,8 +198,8 @@
     position: absolute;
     width: 375.2px;
     height: 30.75px;
-    left: 3215.66px;
-    top: 540px;
+    left: 3170px;
+    top: 380px;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 600;
@@ -212,8 +213,8 @@
     position: absolute;
     width: 508.47px;
     height: 30.75px;
-    left: 3148px;
-    top: 597.41px;
+    left: 3100px;
+    top: 450px;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 400;

@@ -2,12 +2,12 @@
     position: absolute;
     width: 213px;
     height: 51px;
-    left: 156px;
-    top: 3887px;
+    left: 200px;
+    top: 3700px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 800;
-    font-size: 35px;
+    font-size: 24px;
     line-height: 51px;
     color: #000000;
 }
@@ -16,26 +16,27 @@
     position: absolute;
     width: 121px;
     height: 44px;
-    left: 156px;
-    top: 3977px;
+    left: 200px;
+    top: 3750px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 44px;
     color: #495057;
+    text-decoration: underline;
 }
 
 .llfirst {
     position: absolute;
     width: 246px;
     height: 44px;
-    left: 156px;
-    top: 4022px;
+    left: 200px;
+    top: 3785px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 44px;
     color: #495057;
 }
@@ -44,12 +45,12 @@
     position: absolute;
     width: 246px;
     height: 44px;
-    left: 156px;
-    top: 4067px;
+    left: 200px;
+    top: 3820px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 44px;
     color: #495057;
 }
@@ -58,26 +59,27 @@
     position: absolute;
     width: 99px;
     height: 44px;
-    left: 156px;
-    top: 4152px;
+    left: 200px;
+    top: 3865px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 44px;
     color: #495057;
+    text-decoration: underline;
 }
 
 .mfirst {
     position: absolute;
     width: 310px;
     height: 44px;
-    left: 156px;
-    top: 4197px;
+    left: 200px;
+    top: 3900px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 44px;
     color: #495057;
 }
@@ -86,12 +88,12 @@
     position: absolute;
     width: 366px;
     height: 44px;
-    left: 156px;
-    top: 4242px;
+    left: 200px;
+    top: 3935px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 44px;
     color: #495057;
 }
@@ -100,36 +102,42 @@
     position: absolute;
     width: 96px;
     height: 51px;
-    left: 156px;
-    top: 4327px;
+    left: 200px;
+    top: 3980px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
-    font-size: 35px;
+    font-size: 20px;
     line-height: 51px;
     color: #495057;
+    text-decoration: underline;
 }
 
 .email p {
     position: absolute;
     width: 425px;
     height: 44px;
-    left: 156px;
-    top: 4372px;
+    left: 200px;
+    top: 4020px;
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 44px;
     color: #495057;
 }
 
 .teampic {
     position: absolute;
-    width: 664px;
+    width: 600px;
     height: 529px;
-    left: 619px;
-    top: 3887px;
+    left: 600px;
+    top: 3700px;
     opacity: 0.5;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.teampic img {
+    width: 500px;
+    height: 400px;
 }
