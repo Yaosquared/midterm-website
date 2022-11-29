@@ -1,8 +1,6 @@
 # midterm-website
 cpet12l midterm requirement
 
-(FILES UPDATED ARE ONLY UPLOADED HERE)
-
 <strong>Incomplete</strong>, In need of:
 
 *<strong>Services page</strong>
